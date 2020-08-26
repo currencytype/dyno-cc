@@ -11,4 +11,4 @@ The custom commands in this github were made for any discord community, to add a
 
 All custom commands listed here can be found in:
 
-https://discord.gg/7zHfz8
+https://discord.gg/UDjNyVm
